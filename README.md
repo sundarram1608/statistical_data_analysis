@@ -23,9 +23,9 @@ The coding language used here is Python Programing.
 > scipy.stats<br>
 
 ## How to run the code?
-- Fork & Clone the repository.
-- Install necessary libraries (virtual environment recommended) using the `pip install` command in your terminal.
-- Open the Code file and run the cells. (Same Folder hierarchy as in repository to be used).
+- Fork & Clone the repository
+- Install the above libraries (virtual environment recommended) if not available using the command `pip install` in terminal
+- Open the Code file and run all the cells. (Same Folder hierarchy as in repository to be used)
  
 
 
