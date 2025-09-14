@@ -13,9 +13,13 @@ The coding language used here is Python Programing.
 
 ## Libraries used:
 > pandas<br>
+
 > numpy<br>
+
 > seaborn<br>
+
 > matplotlib.pyplot<br>
+
 > scipy.stats<br>
 
 ## How to run the code?
