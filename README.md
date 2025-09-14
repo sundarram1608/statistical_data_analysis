@@ -31,7 +31,8 @@ The coding language used here is Python Programing.
 - Open the Code file and run all the cells. (Same Folder hierarchy as in repository to be used)
 
 
-*This analysis was performed by me as a part of my course work in Post Graduate Program in Data Science & Business Analytics*
+
+**This detailed analysis was performed by me as a part of my course work in Post Graduate Program in Data Science & Business Analytics**
  
 
 
