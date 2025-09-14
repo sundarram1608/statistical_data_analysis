@@ -12,11 +12,11 @@ The coding language used here is Python Programing.
 - code_file.ipynb
 
 ## Libraries used:
-> pandas
-> numpy
-> seaborn
-> matplotlib.pyplot
-> scipy.stats
+> pandas<br>
+> numpy<br>
+> seaborn<br>
+> matplotlib.pyplot<br>
+> scipy.stats<br>
 
 ## How to run the code?
 - Fork & Clone the repository.
